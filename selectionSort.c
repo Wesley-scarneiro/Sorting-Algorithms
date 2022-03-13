@@ -2,7 +2,7 @@
     Desenvolvimento do algoritmo Selection Sort.
     De forma geral, o Selection Sort busca o menor elemento e o coloca na primeira posição.
     Depois, busca o segundo menor elemento e o coloca na segunda posição e assim sucessivamente.
-    Complexidade: O(n²) em qualquer caso.
+    Complexidade: O(n²)
 */
 
 #include <stdio.h>

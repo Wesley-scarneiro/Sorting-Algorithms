@@ -103,8 +103,15 @@ int main()
 }
 
 /*
+Bubble Sort (iterativo):
 Desordenado:
 42 3 17 23 1 57 43 0 81 33 
 Ordenado:
-0 1 3 17 23 33 42 43 57 81
+0 1 3 17 23 33 42 43 57 81 
+
+Bubble Sort (recursivo):   
+Desordenado:
+42 3 17 23 1 57 43 0 81 33 
+Ordenado:
+0 1 3 17 23 33 42 43 57 81 
 */
